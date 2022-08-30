@@ -1,0 +1,13 @@
+#camera, #result {
+    border:2px dotted rgb(0, 41, 27);
+    width: 350px;
+    height: 300px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.tag{
+    color:rgb(0, 82, 55);
+}
